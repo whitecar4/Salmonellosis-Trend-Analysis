@@ -5,10 +5,12 @@ The visual suggests a possible correlation between lockdown stringency and reduc
 
 Note: This is an early exploratory project and is not intended as a complete or rigorous analysis. It is included here as a record of initial data exploration and learning.
 
+![Salmonellosis Trend Chart](Salmonellosis_Cases_Aus.jpg)
+
 ## Data Source
 
 - Australian Government Department of Health — National Notifiable Diseases Surveillance System (NNDSS)
 - Dataset: Salmonellosis notifications by state/territory, weekly data
 - Available at: https://www.health.gov.au/resources/collections/nndss-public-dataset
 
-![Salmonellosis Trend Chart](Salmonellosis_Cases_Aus.jpg)
+
